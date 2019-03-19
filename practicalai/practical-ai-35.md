@@ -6,6 +6,7 @@
 - [Hugging Face's Pytorch pre-trained model repo](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [Rasa](https://rasa.com/)
 - [Lyrebird](https://lyrebird.ai/)
+- [Spacy] (https://spacy.io/)
 - [Allen Institute for AI](https://allenai.org/)
 - [AllenNLP](https://allennlp.org/)
 - [OpenAI](https://openai.com/)
